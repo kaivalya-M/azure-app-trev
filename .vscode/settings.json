@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/e578aba3-ed30-47b5-8550-3e5fedf47256/resourceGroups/az-group-rg2/providers/Microsoft.Web/sites/az-web-app-trev"
+}

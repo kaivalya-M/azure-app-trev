@@ -1,0 +1,13 @@
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\azure-app-trev.exe
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\web.config
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\appsettings.Development.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\appsettings.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\appsettings.Development.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\appsettings.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\azure-app-trev.deps.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\azure-app-trev.runtimeconfig.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\publish\azure-app-trev.staticwebassets.endpoints.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\azure-app-trev.dll
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\azure-app-trev.deps.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\azure-app-trev.runtimeconfig.json
+E:\Projects\azure-app-trev\bin\Release\net9.0\publish\azure-app-trev.pdb
