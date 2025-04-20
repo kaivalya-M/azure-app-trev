@@ -1,8 +1,15 @@
+using azure_app_trev.Data;
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
+
+//Connection string
+var connectionString = builder.Configuration.GetConnectionString("AzureSqlConnection");
+builder.Services.AddDbContext<AppDbContext>(options=>options.UseSqlServer(connectionString));
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddApplicationInsightsTelemetry();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
